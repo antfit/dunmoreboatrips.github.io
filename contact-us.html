@@ -134,12 +134,21 @@
 					<h3>Bookings and enquiries</h3>
 					<p>Like to make a booking or make an enquiy? Get in touch with us and we'll respond promptly</p>
 				</div>
-				<form action="https://formspree.io/xnqgonry" method="POST">
-				  <input type="text" name="name">
-				  <input type="email" name="_replyto">
-				  <input type="submit" value="Send">
-				</form>
 				<form class="contact-form" action="https://formspree.io/xnqgonry" method="POST">
+					<div class="row">
+						<div class="form-group col-md-6">
+						  <input type="text" name="name">
+						</div>
+						<div class="form-group col-md-6">							
+				  			<input type="email" name="_replyto">
+						</div>
+						<div class="form-group">
+				  			<input type="submit" value="Send">
+						</div>
+						<div id="alert-msg" class="alert-msg"></div>
+					</div>
+				</form>
+				<!--form class="contact-form" action="https://formspree.io/xnqgonry" method="POST">
 					<div class="row">
 						<div class="form-group col-md-6">
 							<input type="text" name="contact-name" class="form-control" id="input_name" placeholder="Your Name *" required/>
@@ -161,7 +170,7 @@
 						</div>
 						<div id="alert-msg" class="alert-msg"></div>
 					</div>
-				</form>
+				</form-->
 			</div><!-- Container /- -->
 			<div class="section-padding slim container bg"></div>
 		</div><!-- Contact Us /- -->
