@@ -247,7 +247,7 @@
 							<div class="testimonial-block">
 								<div class="testimonial-content">
 									<img src="images/testimonial/testimonial2.jpg" alt="testimonial1"/>							
-									<p>A special Thank You to Brendan Glody for looking after our gang from the Cotton Mill in Portlaw !! We went wreck fishing and on our way back we caught heaps of yummy mackeral. Most importantly we want to thank Brendan for making it so easy for our friend Shako (pictured) to get in and out of the boat as he is in a wheelchair. He and the whole gang had a great day. Just goes to show that anyone can go and enjoy the day! We look forward to booking again and would highly recommend this trip, thanks again to Brendan at Dunmore Boat Trips!!</p> 
+									<p>A special Thank You to Brendan Glody for looking after our gang from the Cotton Mill in Portlaw !! We went wreck fishing and on our way back we caught heaps of yummy mackerel. Most importantly we want to thank Brendan for making it so easy for our friend Shako (pictured) to get in and out of the boat as he is in a wheelchair. He and the whole gang had a great day. Just goes to show that anyone can go and enjoy the day! We look forward to booking again and would highly recommend this trip, thanks again to Brendan at Dunmore Boat Trips!!</p> 
 								</div>
 								<p>Peter Nugent -<span> Cotton Mill Portlaw</span></p>
 							</div>
@@ -292,7 +292,7 @@
 				<div class="col-md-3 col-sm-6 col-xs-6">
 					<aside class="ftr-widget mail-widget">
 						<h3 class="widget-title"><i><img src="images/ftr-email.png" alt="Location" /></i><span>email us</span></h3>
-						<p><a href="mailto:info@dunmoreboatrips.ie" title="info@dunmoreboatrips.ie" >info@dunmoreboatrips.ie</a>
+						<p><a href="mailto:maryglody@gmail.com" title="Info@OurDomain.Com" >maryglody@gmail.com</a>
 					</aside>
 				</div><!-- Footer Mail Widget /- -->
 				<!-- Footer Hours Widget -->
@@ -315,7 +315,7 @@
 				<div class="search-box">
 					<div class="input-group">
 						<span class="input-group-btn">
-							<a href="contact-us.php" class="btn btn-default" type="button" title="Go">Book a Trip</a>
+							<a href="contact-us.html" class="btn btn-default" type="button" title="Go">Book a Trip</a>
 						</span>
 					</div><!-- /input-group -->
 				</div><!-- Search Box /- -->
